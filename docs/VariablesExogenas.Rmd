@@ -269,6 +269,7 @@ Para testear si es necesario un modelo ARMAX en comparación con un modelo ARMA,
 
 Para esto, Granger (1969) definió un concepto de causalidad bajo el cual podemos testear esto fácilmente.
 
+- Existen algunos problemas con los \beta_i porque puede haber altacorrelación entre sí. Por esta razón, es mejor utilizar los criterios de información.                                                                 
 
 # 
 
